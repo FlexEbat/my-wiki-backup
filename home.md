@@ -2,15 +2,12 @@
 title: Docker & Docker compose
 description: how to use
 published: true
-date: 2026-04-06T06:07:56.263Z
+date: 2026-04-06T06:32:56.439Z
 tags: docker
 editor: markdown
 dateCreated: 2026-04-06T06:07:52.448Z
 ---
 
-Как и с Git, этот конспект построен по принципу: от базовой логики к повседневным командам, а затем — к спасению проекта, когда всё сломалось.
-
----
 
 # 🐳 Подробный конспект по Docker и Docker Compose
 
