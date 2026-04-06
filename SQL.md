@@ -2,7 +2,7 @@
 title: SQL 
 description: 
 published: true
-date: 2026-04-06T06:34:29.242Z
+date: 2026-04-06T06:34:34.367Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T06:34:29.242Z
