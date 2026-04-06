@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-04-06T07:00:00.946Z
+date: 2026-04-06T07:00:27.613Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T07:00:00.946Z
@@ -14,5 +14,4 @@ dateCreated: 2026-04-06T07:00:00.946Z
 
 ## 🛠 Быстрый доступ
 - [🐳 Docker Setup](/docker) — конфиги и команды.
-- [💾 SQL Notes](/SQL) — справочник по базе.
-- [🌐 Matrix Server](/matrix) — настройки чата.
+- [💾 GIT](/git) — справочник по базе.
